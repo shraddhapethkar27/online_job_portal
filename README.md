@@ -3,6 +3,7 @@
 A database-driven web application designed as a DBMS mini project that simulates an online job portal where employers can post jobs and candidates can explore and apply for them.
 
 💻Project Overview
+
 The Online Job Portal is developed to demonstrate how a real-world recruitment system works using database management concepts.
 It connects job seekers and recruiters through a structured system for job posting, browsing, and application management.
 
