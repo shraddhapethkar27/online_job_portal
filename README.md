@@ -23,3 +23,5 @@ It connects job seekers and recruiters through a structured system for job posti
 
 🌐 Live Demo
 https://shraddhapethkar27.github.io/online_job_portal/
+
+👩‍💻 Made by Shraddha Pethkar CSE Student
