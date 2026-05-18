@@ -7,11 +7,17 @@ The Online Job Portal is developed to demonstrate how a real-world recruitment s
 It connects job seekers and recruiters through a structured system for job posting, browsing, and application management.
 
 ✨ Key Features
+
 👤 User registration and login system
+
 🏢 Employer dashboard for posting jobs
+
 🔍 Job listing and search functionality
+
 📝 Job application system for candidates
+
 📊 Structured database integration
+
 💾 Data storage using DBMS concepts
 
 🌐 Live Demo
